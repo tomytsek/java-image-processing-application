@@ -1,4 +1,5 @@
 -----------Features----------------
+
 Open and save images
 Support for PPM and YUV image formats
 RGB ↔ YUV color space conversion
@@ -10,12 +11,14 @@ Image stacking algorithm
 Graphical User Interface (GUI)
 
 -----------Technologies--------------
+
 Java
 Java Swing
 Object-Oriented Programming (OOP)
 Image Processing
 
 ------------Implemented Algorithms------------
+
 Image Transformations
 Grayscale Conversion
 Image Rotation
